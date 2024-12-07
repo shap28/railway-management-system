@@ -26,8 +26,6 @@ class Booking(models.Model):
 
 class User(AbstractUser):
     is_admin = models.BooleanField(default=False)
-
-    # Avoid reverse accessor conflicts
     groups = models.ManyToManyField(
         'auth.Group',
         related_name='railways_user_set',
