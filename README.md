@@ -12,7 +12,7 @@ Table of Contents
 1. Prerequisites
 2. Setup Instructions
 3. Running the Project
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Prerequisites
 Before setting up the project, ensure you have the following installed:
 
