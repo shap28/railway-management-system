@@ -8,6 +8,7 @@ Seat Availability: Users can check the availability of seats between source and 
 Booking Seats: Registered users can book seats on available trains.
 Booking Details: Users can view their booking details.
 The project utilizes Django Rest Framework for creating RESTful APIs and integrates with a MySQL database to store train and booking data.
+
 Table of Contents
 1. Prerequisites
 2. Setup Instructions
