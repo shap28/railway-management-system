@@ -27,8 +27,8 @@ A virtual environment manager (e.g., venv, virtualenv, or conda)
 Clone the Repository:
 
 ```
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/shap28/railway-management-system.git
+cd railway-management-system
 ```
 
 Set Up a Virtual Environment:
